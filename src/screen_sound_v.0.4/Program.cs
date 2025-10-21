@@ -1,9 +1,9 @@
 ﻿using ScreenSound_04.Filtros;
 using ScreenSound_04.Modelos;
-using System.Drawing;
 using System.Text.Json;
 
-string texto = @"
+/*
+
     Nesse curso, vamos entender de forma prática como integrar uma aplicação em C# com uma API externa. Para isso, vamos aprender como funciona o HttpClient, uma importante biblioteca no C#.
     Também temos outros conteúdos interessantes. Por exemplo, para poder pegar essas fontes de informações, vamos conhecer sobre exceções.
     Depois que tivermos essa coleção da API em memória, vamos começar a manipular essas coleções. Para isso, vamos usar uma biblioteca importante no desenvolvimento .NET, o LINQ.
@@ -36,7 +36,8 @@ string texto = @"
 
     O nosso desafio é acessar o endereço desse arquivo que chamamos de endpoint e pegar todas essas músicas e trazer para a nossa aplicação.
     Por isso, vamos utilizar a ideia de cliente e servidor.
-";
+*/
+
 // Já que é algo tão comum realizar requisições para APIs externas, 
 // pegar os dados e trabalhar naqueles dados no nosso sistema usando HTTP, provavelmente deve existir uma biblioteca, um tipo responsável para nos auxiliar nesse tarefa.
 
