@@ -1,7 +1,7 @@
 # Screen Sound
 
 O **Screen Sound** é uma aplicação de console desenvolvida em **C#**, com o objetivo de praticar os conceitos de **Programação Orientada a Objetos (POO)**.  
-O sistema permite o cadastro e gerenciamento de **bandas**, avaliação de suas músicas, exibição de médias de avaliações e geração de resumos automáticos das bandas através de integração com a **OpenAI API**.
+O sistema permite o cadastro e gerenciamento de **bandas**, avaliação de suas músicas, exibição de médias de avaliações e geração de resumos automáticos das bandas através de integração com a **OpenAI API**, onde tive que gerar um prompt que sempre irá me retornar de forma informal detalhes da banda.
 
 ## Funcionalidades
 
